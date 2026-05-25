@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b7853b7-0d58-4a1f-aa9f-6360e2c42aae" /># Minimal Academic Homepage
+# Minimal Academic Homepage
 
 A minimal, responsive academic homepage template for GitHub Pages.
 
