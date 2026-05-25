@@ -41,7 +41,7 @@ After enabling GitHub Pages, the homepage will be available at:
 
 ## How to Use
 
-### 1. Fork or clone this repository
+### 1. Fork or use this template
 
 Click **Use this template** or fork this repository to your own GitHub account.
 
