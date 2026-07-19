@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Neutral institution placeholder</title>
+  <desc id="desc">A generic academic building icon.</desc>
+  <rect width="128" height="128" rx="24" fill="#eef2ff"/>
+  <path d="M20 48 64 24l44 24v10H20zm8 18h12v30H28zm30 0h12v30H58zm30 0h12v30H88zM18 102h92v10H18z" fill="#4f46e5"/>
+</svg>

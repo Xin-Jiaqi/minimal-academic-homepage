@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420" role="img" aria-labelledby="title desc">
+  <title id="title">Neutral profile placeholder</title>
+  <desc id="desc">An abstract person silhouette on a blue gradient background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#e0e7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="420" rx="32" fill="url(#bg)"/>
+  <circle cx="180" cy="142" r="70" fill="#64748b"/>
+  <path d="M70 384c9-96 49-148 110-148s101 52 110 148" fill="#475569"/>
+</svg>
